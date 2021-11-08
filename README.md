@@ -1,7 +1,8 @@
-![mehvozsoft](https://scontent.fdac13-1.fna.fbcdn.net/v/t1.6435-9/57333582_1184226005080464_2734636605422698496_n.png?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFRza1JVMmbDH36oJYRGFrh5QZ9BPyqWBjlBn0E_KpYGMlHTh-OfOHWyDHsDZfwyds&_nc_ohc=SGMUgLpPjMAAX-Osh1P&tn=uLWvMicAwKYWDY2I&_nc_ht=scontent.fdac13-1.fna&oh=37d9c7d3e604b5d425d21cc44bf56077&oe=61AA2813)
-
+[![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/tanvir_ux)
+[![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/mdtanviralam/)
+[![Facebook](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Facebook)](https://www.facebook.com/mehvozsoft/)
+[![Stack Overflow](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Stack%20Overflow)](https://stackoverflow.com/users/4763593/tanvir-alam)
 ### Hi there 👋
-
 
 - 🔭 I’m currently working on mobile and web applications.
 - 🌱 I’m currently learning machine learning.
@@ -11,5 +12,7 @@
 - 📫 How to reach me: https://tanvir-ux.github.io/  
 - ⚡ Fun fact: I love coding, playing guitar, riding bike, swimming, cricket.
 
+[![Mehvozsoft, Web and Mobile apps.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Web%20and%20Mobile%20apps.&title=Mehvozsoft)](https://pimp-my-readme.webapp.io)
+[![JavaScript_HTML_Express_Java_Python_CSS_NodeJS_MySQL_MongoDB_Angular_Ionic](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_Express_Java_Python_CSS_NodeJS_MySQL_MongoDB_Angular_Ionic)](https://pimp-my-readme.webapp.io)
 
 
