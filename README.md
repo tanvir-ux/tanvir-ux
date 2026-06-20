@@ -1,12 +1,12 @@
 
 ### Hi there 👋 I am Tanvir
   
-- 🔭Strategic technology leader and Senior Software Engineer with over 7 years of experience in enterprise
-software development. Expertise in the Java ecosystem (Spring Boot, Grails), Oracle Database (CDB/PDB),
-and modern frontend frameworks. Currently specializing in Agentic LLM architectures, RAG pipelines, and
-AI-driven automation to transform retail and banking operations.
-- 📫 How to reach me: https://tanvir-ux.github.io/ <strong> tanviralamshuvo@gmail.com </strong>
-- ⚡ Fun fact: I love coding, playing guitar, riding a bike, swimming, cricket, and football.
+Strategic technology manager with over 5 years of formalized commercial corporate experience backed by an unbroken 11-year public open-source repository production footprint. Expert in building low-latency, high-concurrency software architectures across the Java ecosystem, modern distributed messaging frameworks, and state-of-the-art Agentic LLM reasoning pipelines.
+
+
+
+- **📫** How to reach me: https://tanvir-ux.github.io/ <strong> tanviralamshuvo@gmail.com </strong>
+- **⚡** Fun fact: I love coding, playing guitar, riding a bike, swimming, cricket, and football.
 
 
 
