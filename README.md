@@ -2,7 +2,7 @@
 
 CTO and hands-on Senior Software Engineer (5+ years) building distributed systems, high-concurrency banking APIs, and production Agentic AI. Stack: Java, Spring Boot, microservices, Kubernetes, Kafka, cloud, RAG/MCP.
 
-**Featured work (what recruiters usually open first)**
+**Featured work**
 
 1. **[agentic-mcp-gateway](https://github.com/tanvir-ux/agentic-mcp-gateway)** — MCP server + agentic RAG tools (retrieve docs, search payments, create tickets). Runnable without an API key.
 2. **[banking-payments-spring](https://github.com/tanvir-ux/banking-payments-spring)** — Spring Boot 3 / Java 17 payments API with JWT, idempotency, Kafka events, ISO 20022-inspired flows. Original demo, not bank IP.
