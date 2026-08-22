@@ -1,9 +1,11 @@
+### Hi there, I am Tanvir
 
-### Hi there 👋 I am Tanvir
-  
-Chief Technology Officer and hands-on Principal Software Engineer with 5+ years of experience designing distributed enterprise applications, high-concurrency banking systems, and production-grade Agentic AI platforms. Expert in Java, Spring Boot, Microservices, Kubernetes, Kafka, Cloud Architecture, and Large Language Model integrations. Proven record delivering scalable systems for Oracle banking clients while contributing to major open-source projects including Google Chrome, Meta Docusaurus, and Keras.
+CTO and hands-on Senior Software Engineer (5+ years) building distributed systems, high-concurrency banking APIs, and production Agentic AI. Stack: Java, Spring Boot, microservices, Kubernetes, Kafka, cloud, RAG/MCP.
 
+**Featured work (what recruiters usually open first)**
 
-MD. TANVIR ALAM
-CHIEF TECHNOLOGY OFFICER & SENIOR SOFTWARE ENGINEER
-Dhaka, Bangladesh | +8801716416679 | tanviralamshuvo@gmail.com | linkedin | github | tanvir-ux.github.i
+1. **[agentic-mcp-gateway](https://github.com/tanvir-ux/agentic-mcp-gateway)** — MCP server + agentic RAG tools (retrieve docs, search payments, create tickets). Runnable without an API key.
+2. **[banking-payments-spring](https://github.com/tanvir-ux/banking-payments-spring)** — Spring Boot 3 / Java 17 payments API with JWT, idempotency, Kafka events, ISO 20022-inspired flows. Original demo, not bank IP.
+3. **[kafka-spring-microservices](https://github.com/tanvir-ux/kafka-spring-microservices)** — Transfer API, double-entry ledger, and notifications over Kafka, with docker-compose and Kubernetes manifests.
+
+Dhaka, Bangladesh · tanviralamshuvo@gmail.com · [github.com/tanvir-ux](https://github.com/tanvir-ux) · [tanvir-ux.github.io](https://tanvir-ux.github.io)
