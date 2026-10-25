@@ -1,6 +1,6 @@
 ### Hi, I am Tanvir
 
-**12+ years of coding.** I have been on GitHub since December 2014. I am CTO and a hands-on Senior Software Engineer (5+ years professional) working on distributed systems, high-concurrency banking APIs, and production Agentic AI.
+**12+ years of coding.** I have been on GitHub since December 2014. I am a Lead Software Engineer and a hands-on Senior Software Engineer (5+ years professional) working on distributed systems, high-concurrency banking APIs, and production Agentic AI.
 
 Java, Spring Boot, microservices, Kubernetes, Kafka, cloud, RAG/MCP.
 
