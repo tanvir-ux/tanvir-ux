@@ -6,6 +6,12 @@ Java, Spring Boot, microservices, Kubernetes, Kafka, cloud, RAG/MCP.
 
 Dhaka, Bangladesh · [tanvir-ux.github.io](https://tanvir-ux.github.io) · tanviralamshuvo@gmail.com · +8801716416679
 
+### Featured: AI engineering, every layer
+
+**[ai-engineering-stack](https://github.com/tanvir-ux/ai-engineering-stack)** ([live replay](https://ai-engineering-stack-demo.netlify.app/)) is one working enterprise knowledge copilot that covers the whole stack: React front end, OIDC sign-in and RBAC, FastAPI gateway, LangGraph orchestration with human approval, an OpenAI Agents SDK agent, an MCP tool server, PySpark and Delta, a Databricks bundle, Snowflake SQL and dbt, hybrid retrieval with evals, Docker, Helm, Terraform and CI. The README says plainly what was run and what was only validated.
+
+Related showcases: [agent-platform](https://github.com/tanvir-ux/agent-platform), [graphrag-service](https://github.com/tanvir-ux/graphrag-service), [llm-finetune-serve](https://github.com/tanvir-ux/llm-finetune-serve).
+
 ### Open source I merged in 2026
 
 A few patches I got into production this year:
