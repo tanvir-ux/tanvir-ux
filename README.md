@@ -1,39 +1,43 @@
-### Hi, I am Tanvir
+### Md Tanvir Alam
 
-**12+ years of coding.** I have been on GitHub since December 2014. I am CTO at Alawaf Technologies Limited and a hands-on Senior Software Engineer (5+ years professional) working on distributed systems, high-concurrency banking APIs, and production Agentic AI.
+CTO at **Alawaf Technologies Limited** · Dhaka, Bangladesh
 
-Java, Spring Boot, microservices, Kubernetes, Kafka, cloud, RAG/MCP.
+I am a hands-on software engineer. On GitHub since December 2014. [Website](https://tanvir-ux.github.io)
 
-Dhaka, Bangladesh · [tanvir-ux.github.io](https://tanvir-ux.github.io) · tanviralamshuvo@gmail.com · +8801716416679
+Previously worked as a contractor customizing Oracle FLEXCUBE for Bank Danamon Indonesia and SMBC Singapore.
 
-### Featured: AI engineering, every layer
+### Current focus
 
-**[ai-engineering-stack](https://github.com/tanvir-ux/ai-engineering-stack)** ([live replay](https://ai-engineering-stack-demo.netlify.app/)) is one working enterprise knowledge copilot that covers the whole stack: React front end, OIDC sign-in and RBAC, FastAPI gateway, LangGraph orchestration with human approval, an OpenAI Agents SDK agent, an MCP tool server, PySpark and Delta, a Databricks bundle, Snowflake SQL and dbt, hybrid retrieval with evals, Docker, Helm, Terraform and CI. The README says plainly what was run and what was only validated.
+- AI tooling, including agents, retrieval, and MCP
+- Banking and distributed systems
+- Cybersecurity and digital forensics
 
-Related showcases: [agent-platform](https://github.com/tanvir-ux/agent-platform), [graphrag-service](https://github.com/tanvir-ux/graphrag-service), [llm-finetune-serve](https://github.com/tanvir-ux/llm-finetune-serve).
+### Selected projects
 
-### Open source I merged in 2026
+Original portfolio demos.
 
-A few patches I got into production this year:
+#### AI tooling
 
-| Project | What I changed | PR |
-|---|---|---|
-| [Google Gson](https://github.com/google/gson) | Update JSON path after `promoteNameToValue` | [#3098](https://github.com/google/gson/pull/3098) |
-| [Facebook Infer](https://github.com/facebook/infer) | Fix BufferOverrun false positive on `String.split` with a non-positive limit | [#2094](https://github.com/facebook/infer/pull/2094) |
-| [Apache Maven](https://github.com/apache/maven) | Fix `ArtifactCoordinates.getId()` double colon when classifier is empty | [#12813](https://github.com/apache/maven/pull/12813) |
-| [Apache Commons IO](https://github.com/apache/commons-io) | Do not discard `CharsetEncoder` errors in `ReaderInputStream` (IO-780) | [#874](https://github.com/apache/commons-io/pull/874) |
-| [Netflix DGS](https://github.com/Netflix/dgs-framework) | Preserve user `spring.autoconfigure.exclude` lists | [#2339](https://github.com/Netflix/dgs-framework/pull/2339) |
-| [Checkstyle](https://github.com/checkstyle/checkstyle) | Quote UnusedLocalVariable examples | [#21362](https://github.com/checkstyle/checkstyle/pull/21362), [#21363](https://github.com/checkstyle/checkstyle/pull/21363) |
+- **[ai-engineering-stack](https://github.com/tanvir-ux/ai-engineering-stack)** — Knowledge-copilot demo across the UI, sign-in, API, agent workflow, retrieval, and deployment. The project README says what was run and what was only validated. [Recorded replay](https://ai-engineering-stack-demo.netlify.app/).
+- **[agent-platform](https://github.com/tanvir-ux/agent-platform)** — One support task across several agent frameworks, with FastAPI, MCP, and A2A. [Demo](https://tanvir-ux.github.io/agent-platform/).
+- **[graphrag-service](https://github.com/tanvir-ux/graphrag-service)** — GraphRAG and vector RAG, with an evaluation harness. [Demo](https://tanvir-ux.github.io/graphrag-service/).
+- **[llm-finetune-serve](https://github.com/tanvir-ux/llm-finetune-serve)** — CPU LoRA fine-tune of SmolLM2 and an OpenAI-compatible server. [Demo](https://tanvir-ux.github.io/llm-finetune-serve/).
 
-I also merged [keras-team/keras-io#596](https://github.com/keras-team/keras-io/pull/596) a while back.
+#### Banking and distributed systems
 
-### Some of my work
+- **[agentic-mcp-gateway](https://github.com/tanvir-ux/agentic-mcp-gateway)** — MCP server and RAG tools for documents, mock payments, and tickets. The default path runs without an API key.
+- **[banking-payments-spring](https://github.com/tanvir-ux/banking-payments-spring)** — Spring Boot 3 payments API with JWT, idempotency, Kafka, and ISO 20022-inspired messages.
+- **[kafka-spring-microservices](https://github.com/tanvir-ux/kafka-spring-microservices)** — Transfer API, double-entry ledger, and notifications over Kafka, with Docker Compose and Kubernetes manifests.
 
-1. **[agentic-mcp-gateway](https://github.com/tanvir-ux/agentic-mcp-gateway)** — MCP server + agentic RAG tools (retrieve docs, search payments, create tickets). Runs without an API key.
-2. **[banking-payments-spring](https://github.com/tanvir-ux/banking-payments-spring)** — Spring Boot 3 / Java 17 payments API with JWT, idempotency, Kafka events, ISO 20022-inspired flows. My own demo, not bank IP.
-3. **[kafka-spring-microservices](https://github.com/tanvir-ux/kafka-spring-microservices)** — Transfer API, double-entry ledger, and notifications over Kafka, with docker-compose and Kubernetes manifests.
+### Open source
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvir-ux&show_icons=true&theme=transparent&hide_rank=true" alt="My GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-ux&layout=compact&theme=transparent" alt="Languages I use most" />
-</p>
+Recent fixes in Meta Infer, Google Gson, and Google Auto.
+
+| Project | Fix | Link |
+| --- | --- | --- |
+| [Meta Infer](https://github.com/meta/infer) | Track streams from `Socket.getInputStream` and `getOutputStream` in Pulse | [#2302](https://github.com/meta/infer/pull/2302) |
+| [Meta Infer](https://github.com/meta/infer) | Track `Deflater` and `Inflater` as native resources in Pulse | [#2275](https://github.com/meta/infer/pull/2275) |
+| [Google Gson](https://github.com/google/gson) | Record the JSON path after `promoteNameToValue` | [#3098](https://github.com/google/gson/pull/3098) |
+| [Google Auto](https://github.com/google/auto) | Copy `javax` and `jakarta` `@Qualifier` onto generated AutoFactory parameters | [commit d10c050](https://github.com/google/auto/commit/d10c05027671514ab4915ba3bf38478c506d163a) |
+
+[All merged pull requests](https://github.com/search?q=is%3Apr+author%3Atanvir-ux+is%3Amerged&type=pullrequests) · [GitRanks profile](https://gitranks.com/profile/tanvir-ux)
